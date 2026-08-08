@@ -19,61 +19,22 @@ Python использую для автоматизации, Telegram-ботов
 ## Избранные проекты
 
 ### Protocol Manager
-
-Система для автоматизации работы с предприятиями, измерениями и протоколами.
-
-Разрабатываю проект как полноценный прикладной продукт: архитектура, интерфейс, бизнес-логика, API и работа с данными.
-
-`React` · `TypeScript` · `Backend` · `REST API`
-
----
+Система для автоматизации работы с предприятиями, измерениями и протоколами.  
+`React` · `TypeScript` · `REST API`
 
 ### PtoShkinDSU Bot
-
-Telegram-бот на Python для работы с FAQ, публикациями и пользовательскими запросами.
-
-Реализованы:
-
-- работа с данными из Excel;
-- публикация сообщений и вложений;
-- Telegram Forum Topics;
-- журналирование действий;
-- проверка прав пользователей;
-- polling и webhook.
-
-`Python` · `python-telegram-bot` · `pandas` · `openpyxl`
-
+Telegram-бот на Python: FAQ, Excel, публикации, логи, polling/webhook.  
+`Python` · `python-telegram-bot` · `pandas` · `openpyxl`  
 [Репозиторий](https://github.com/ReshetnikovAV89/PtoShkinDSU_bot)
 
----
-
 ### WebLarek — Security Audit
-
-Проект по аудиту и повышению безопасности backend-приложения.
-
-В работе использованы:
-
-- серверная валидация;
-- контроль доступа;
-- защита авторизации;
-- проверка загрузки файлов;
-- аудит npm-зависимостей;
-- Docker;
-- Nginx;
-- GitHub Actions.
-
-`Node.js` · `Express` · `TypeScript` · `MongoDB` · `Docker` · `Nginx`
-
+Аудит и усиление безопасности backend-приложения.  
+`Node.js` · `Express` · `TypeScript` · `MongoDB` · `Docker` · `Nginx`  
 [Репозиторий](https://github.com/ReshetnikovAV89/bad-server)
 
----
-
 ### FILM!
-
-Full-Stack проект с backend на NestJS.
-
-`NestJS` · `TypeScript` · `REST API`
-
+Full-Stack проект с backend на NestJS.  
+`NestJS` · `TypeScript` · `REST API`  
 [Репозиторий](https://github.com/ReshetnikovAV89/film-react-nest)
 
 ## Что использую в работе
